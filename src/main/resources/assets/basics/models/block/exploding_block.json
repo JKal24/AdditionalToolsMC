@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "basics:block/exploding_block",
+    "down": "basics:block/exploding_block",
+    "up": "basics:block/exploding_block",
+    "east": "basics:block/exploding_block",
+    "west": "basics:block/exploding_block",
+    "south": "basics:block/exploding_block",
+    "north": "basics:block/exploding_block_front"
+  }
+}

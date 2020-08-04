@@ -1,0 +1,10 @@
+{
+  "item.basics.basic_bomb": "Basic Bomb",
+  "item.basics.bomb_egg": "Bomber Egg",
+  "item.basics.hook": "Hook",
+  "block.basics.exploding_block": "Exploding Block",
+
+  "ITextComponent.title": "Explosion GUI",
+  "_comment": "Creative Tabs",
+  "itemGroup.basic_tab": "basics"
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "basics:exploding_block"
+    ]
+  },
+  "criteria": {
+    "iron_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:iron_ore"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "basics:exploding_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "iron_ore",
+      "has_the_recipe"
+    ]
+  ]
+}

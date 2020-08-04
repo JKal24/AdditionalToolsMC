@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "basics:block/exploding_block_triggered_sides",
+    "down": "basics:block/exploding_block_triggered_sides",
+    "up": "basics:block/exploding_block_triggered_sides",
+    "east": "basics:block/exploding_block_triggered_sides",
+    "west": "basics:block/exploding_block_triggered_sides",
+    "south": "basics:block/exploding_block_triggered_sides",
+    "north": "basics:block/exploding_block_triggered"
+  }
+}
